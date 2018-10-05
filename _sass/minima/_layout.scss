@@ -195,15 +195,21 @@
   > li {
     margin-bottom: $spacing-unit;
   }
+  li:not(:last-child) {
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 30px;
+  }
 }
 
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  display: block;
+  margin-bottom: 30px;
 }
 
 .post-link {
-  display: block;
+
   @include relative-font-size(1.5);
 }
 

@@ -1,13 +1,15 @@
-title: Leslie Cheung
-author: lesliecheung168
+title: Front End Talk
+#author: Leslie Cheung
 # email: 
 description: > # this means to ignore newlines until "twitter_username:"
-  Tech Blog
+  Everything Front End :-)
+
+permalink: /:title/
 
 # social links
 # twitter_username: jekyllrb
-github_username:  lesliecheung168
-rss: rss
+#github_username:  lesliecheung168
+#rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
